@@ -4,3 +4,6 @@
 [submodule "oauth-service-api"]
 	path = oauth-service-api
 	url = https://github.com/wsmhz/oauth-service-api.git
+[submodule "resource-service-api"]
+	path = resource-service-api
+	url = https://github.com/wsmhz/resource-service-api.git
