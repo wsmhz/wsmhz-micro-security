@@ -7,3 +7,6 @@
 [submodule "resource-service-api"]
 	path = resource-service-api
 	url = https://github.com/wsmhz/resource-service-api.git
+[submodule "resource-service"]
+	path = resource-service
+	url = https://github.com/wsmhz/resource-service.git
