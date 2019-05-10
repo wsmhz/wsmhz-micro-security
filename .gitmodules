@@ -13,3 +13,6 @@
 [submodule "rbac-service"]
 	path = rbac-service
 	url = https://github.com/wsmhz/rbac-service.git
+[submodule "rbac-service-api"]
+	path = rbac-service-api
+	url = https://github.com/wsmhz/rbac-service-api.git
