@@ -10,3 +10,6 @@
 [submodule "resource-service"]
 	path = resource-service
 	url = https://github.com/wsmhz/resource-service.git
+[submodule "rbac-service"]
+	path = rbac-service
+	url = https://github.com/wsmhz/rbac-service.git
